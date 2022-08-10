@@ -1,0 +1,133 @@
+{
+    "domain": "wassersport24.net",
+    "hostname": "https://wassersport24.net/",
+    "email": "wassersport24.net@surrealnetworks.io",
+    "organization": "wassersport24.net",
+    "logoText": "Wassersport24.net",
+    "title": "title",
+    "subline": "subline",
+    "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [],
+    "winnerProducts": [],
+    "featuredCategories": [],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Outdoor Brillen",
+        "featureText": "feature text jo",
+        "index": {
+            "title": "",
+            "metaDescription": "",
+            "robots": "",
+            "texts": [{
+                    "title": "Title of a SEO Text",
+                    "text": "Text of a SEO Text"
+                },
+                {
+                    "title": "New title",
+                    "text": "new text"
+                }
+            ]
+        },
+        "shop": {
+            "title": "",
+            "metaDescription": "",
+            "robots": ""
+        },
+        "hersteller": {
+            "title": "",
+            "metaDescription": "",
+            "robots": ""
+        }
+    },
+    "productSeo": {
+        "defaultTitle": "",
+        "defaultMetaDescription": "",
+        "defaultRobots": "",
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                "robots": "index, follow"
+            }
+        }]
+    },
+    "categorySeo": {
+        "defaultTitle": "",
+        "defaultMetaDescription": "",
+        "defaultRobots": "",
+        "categories": [{
+            "key": "sporthosen",
+            "slug": "sporthosen",
+            "name": "Sporthosen",
+            "seo": {
+                "title": "Sporthosen günstig kaufen",
+                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                "robots": "index, follow",
+                "texts": [{
+                        "title": "Title of a SEO Text for sporthosen",
+                        "text": "Text of a SEO Text for sporthosen"
+                    },
+                    {
+                        "title": "New title for sporthosen",
+                        "text": "new text for sporthosen"
+                    }
+                ]
+            }
+        }]
+    },
+    "brandSeo": {
+        "defaultTitle": "",
+        "defaultMetaDescription": "",
+        "defaultRobots": "",
+        "brands": [{
+            "key": "palm",
+            "name": "Palm",
+            "seo": {
+                "title": "Produkte von Palm günstig kaufen",
+                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                "robots": "index, follow"
+            }
+        }]
+    },
+    "navigationLinks": [{
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Wassersport",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Wassersport Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Wassersport Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Wassersport Kontakt",
+            "publish": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+[{
+    "key": "softshellhosen",
+    "name": "Softshellhosen",
+    "slug": "softshellhosen",
+    "productCategory": "Softshellhosen",
+    "subCategories": []
+}, {
+    "key": "sporthosen",
+    "name": "Sporthosen",
+    "slug": "sporthosen",
+    "productCategory": "Sporthosen",
+    "subCategories": []
+}, {
+    "key": "trekkinghosen",
+    "name": "Trekkinghosen",
+    "slug": "trekkinghosen",
+    "productCategory": "Trekkinghosen",
+    "subCategories": []
+}, {
+    "key": "reisehosen und freizeithosen",
+    "name": "Reisehosen und Freizeithosen",
+    "slug": "reisehosen-und-freizeithosen",
+    "productCategory": "Reisehosen und Freizeithosen",
+    "subCategories": []
+}, {
+    "key": "shorts",
+    "name": "Shorts",
+    "slug": "shorts",
+    "productCategory": "Shorts",
+    "subCategories": []
+}, {
+    "key": "regenhosen und hardshellhosen",
+    "name": "Regenhosen und Hardshellhosen",
+    "slug": "regenhosen-und-hardshellhosen",
+    "productCategory": "Regenhosen und Hardshellhosen",
+    "subCategories": []
+}, {
+    "key": "winterhosen",
+    "name": "Winterhosen",
+    "slug": "winterhosen",
+    "productCategory": "Winterhosen",
+    "subCategories": []
+}]
