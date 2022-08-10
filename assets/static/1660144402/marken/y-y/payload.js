@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/y-y", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/y-y-clip-up-sportbrille-y-y-5637188098.jpg":"\u002Fassets\u002Fimages\u002Fy-y-clip-up-sportbrille-y-y-5637188098.webp"}}],fetch:{},mutations:void 0});
