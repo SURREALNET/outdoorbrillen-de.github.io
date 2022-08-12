@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "outdoorbrillen.de",
+    "hostname": "https://www.outdoorbrillen.de/",
+    "email": "outdoorbrillen.de@surrealnetworks.io",
+    "organization": "outdoorbrillen.de",
+    "logoText": "outdoorbrillen.de",
+    "title": "Outdoor Brillen",
+    "subline": "Brillen für jeden Anlass",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,114 +14,129 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "5637825566",
+        "5637743332",
+        "5637743338"
+    ],
+    "winnerProducts": [
+        "5637743338",
+        "5637933142",
+        "5637851421"
+    ],
+    "featuredCategories": [
+        "Sonnenbrillen",
+        "Sportbrillen",
+        "Skibrillen",
+        "Gletscherbrillen",
+        "Brillenetuis und Zubehör"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
         "Material",
         "Komfort",
         "Funktion",
-        "Haltbarkeit"
+        "Fassung",
+        "UV-Schutz",
+        "Veredelung"
     ],
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Outdoor Brillen",
-        "featureText": "feature text jo",
+        "featureText": "<p>Auf outdoorbrillen.de findest du die richtige Brille für deinen Einsatz. Ob eine Sportbrille, eine Skibrille, eine Gletscherbrille oder eine Sonnenbrille, wir finden für dich die richtige Brille.</p><p>Denn die richtige zu finden ist nicht einfach: Eine gute Brille muss den richtigen Schutz bieten, die passende Fassung haben und die Wahl des Materials ist für deinen Einsatz ebenfalls ausschlaggebend.</p><p>Damit die Wahl für dich einfacher wird, haben wir für dich in unserem <a href=\"/shop/\" title=\"Online Shop für Outdoor Brillen\">Online Shop</a> einige Kategorien erstellt. Dort findest du die richtige Brille für dein spannendes Abenteuer.</p>",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "",
-            "texts": [{
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
-                }
-            ]
+            "title": "Outdoor Brillen",
+            "metaDescription": "Auf OutdoorBrillen.de findest du die richtige Brille für dein Outdoor Erlebnis. Egal ob Sportbrille, Sonnenbrille oder Skibrille. Top Marken zu besten Preisen.",
+            "robots": "index, follow"
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": ""
+            "title": "Outdoor Brillen Shop",
+            "metaDescription": "Shop für Outdoor Brillen. Sortiert nach Kategorie. Finde die richtige Brille für deinen Einsatz. Beste Fassung, Material, UV-Schutz und Veredelung.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": ""
+            "title": "Outdoor Brillen Hersteller Überblick",
+            "metaDescription": "Finde alle renommierten Hersteller für Outdoor Brillen wie Oakley, Alpina, FRILUFTS, Uvex, usw und kaufe die Produkte zum Best-Preis in unserem Online Shop. ",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "defaultTitle": "$PRODUKT - OutdoorBrillen.de",
+        "defaultMetaDescription": "Outdoor Brille $PRODUKT von $HERSTELLER findest du in in unserem Online Shop für Outdoor Brillen zum besten Preis im Internet.",
+        "defaultRobots": "index, follow",
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow",
-                "texts": [{
-                        "title": "Title of a SEO Text for sporthosen",
-                        "text": "Text of a SEO Text for sporthosen"
-                    },
-                    {
-                        "title": "New title for sporthosen",
-                        "text": "new text for sporthosen"
-                    }
-                ]
+        "defaultTitle": "$KATEGORIE - OutdoorBrillen.de",
+        "defaultMetaDescription": "Top $KATEGORIE zu besten Preisen findest du in unserem Online Shop für Outdoor Brillen. Testsieger, beliebte Produkte und Preisschlager.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "brands": [{
-            "key": "palm",
-            "name": "Palm",
-            "seo": {
-                "title": "Produkte von Palm günstig kaufen",
-                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                "robots": "index, follow"
+        "defaultTitle": "$HERSTELLER - OutdoorBrillen.de",
+        "defaultMetaDescription": "Outdoor Brillen von $HERSTELLER. Alle Produkte von $HERSTELLER zu günstigen Preisen bestellen. Produkte auf Lager. Testsieger und Preisschlager.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Outdoor Brillen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Brillen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Brillen Marken",
             "publish": true
         },
         {
