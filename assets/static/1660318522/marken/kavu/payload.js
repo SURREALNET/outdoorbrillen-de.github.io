@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/kavu", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/kavu-solar-flare-kavu-5637828601.jpg":"\u002Fassets\u002Fimages\u002Fkavu-solar-flare-kavu-5637828601.webp"}}],fetch:{},mutations:void 0});

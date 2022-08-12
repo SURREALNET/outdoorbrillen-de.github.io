@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/karuen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/karuen-antarctic-sonnenbrille-karuen-5637190856.jpg":"\u002Fassets\u002Fimages\u002Fkaruen-antarctic-sonnenbrille-karuen-5637190856.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/frilufts", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/frilufts-glasses-case-etui-frilufts-5637456622.jpg":"\u002Fassets\u002Fimages\u002Ffrilufts-glasses-case-etui-frilufts-5637456622.webp"}}],fetch:{},mutations:void 0});

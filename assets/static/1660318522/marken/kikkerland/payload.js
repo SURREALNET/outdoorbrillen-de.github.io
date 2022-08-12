@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/kikkerland", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/kikkerland-eyeglass-repair-kit-reparaturbedarf-kikkerland-5637737858.jpg":"\u002Fassets\u002Fimages\u002Fkikkerland-eyeglass-repair-kit-reparaturbedarf-kikkerland-5637737858.webp"}}],fetch:{},mutations:void 0});
