@@ -44,11 +44,40 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Outdoor Brillen",
-        "featureText": "<p>Auf outdoorbrillen.de findest du die richtige Brille für deinen Einsatz. Ob eine Sportbrille, eine Skibrille, eine Gletscherbrille oder eine Sonnenbrille, wir finden für dich die richtige Brille.</p><p>Denn die richtige zu finden ist nicht einfach: Eine gute Brille muss den richtigen Schutz bieten, die passende Fassung haben und die Wahl des Materials ist für deinen Einsatz ebenfalls ausschlaggebend.</p><p>Damit die Wahl für dich einfacher wird, haben wir für dich in unserem <a href=\"/shop/\" title=\"Online Shop für Outdoor Brillen\">Online Shop</a> einige Kategorien erstellt. Dort findest du die richtige Brille für dein spannendes Abenteuer.</p>",
+        "featureText": "<p>Herzlich Willkommen bei Outdoor Brillen! Wir sind Ihr zuverlässiger Partner, wenn es um hochwertige und funktionale Brillen für den Outdoor-Bereich geht. Egal ob Sie eine Sonnenbrille zum Wandern, eine Skibrille für den Wintersport oder eine Sportbrille zum Radfahren suchen - bei uns finden Sie garantiert das passende Modell.</p><p>Unser Sortiment umfasst eine breite Auswahl an Outdoor-Brillen namhafter Markenhersteller, die höchsten Ansprüchen an Qualität und Design gerecht werden. Wir legen großen Wert darauf, dass unsere Kunden zufrieden sind und bieten Ihnen daher nicht nur eine schnelle Lieferung, sondern auch einen erstklassigen Kundenservice.</p><p>Stöbern Sie gerne in unserem <a href=\"/shop/\" title=\"Online Shop für Outdoor Brillen\">Shop</a> und entdecken Sie die Vielfalt unserer Produkte. Sollten Sie Fragen haben oder eine Beratung wünschen, stehen wir Ihnen jederzeit gerne zur Verfügung. Wir freuen uns auf Ihre Bestellung und wünschen Ihnen viel Spaß beim Shoppen bei Outdoor Brillen!</p>",
         "index": {
             "title": "Outdoor Brillen",
             "metaDescription": "Auf OutdoorBrillen.de findest du die richtige Brille für dein Outdoor Erlebnis. Egal ob Sportbrille, Sonnenbrille oder Skibrille. Top Marken zu besten Preisen.",
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "texts": [{
+                    "title": "Herzlich Willkommen im Online Shop für Outdoor Brillen",
+                    "text": "Willkommen bei Outdoor Brillen, Ihrem Online-Shop für hochwertige Brillen für den Outdoor-Einsatz. Wir bieten eine breite Auswahl an Sonnen-, Sport-, Skibrillen sowie Zubehör wie Brillenetuis und vieles mehr. Alle unsere Produkte sind auf Langlebigkeit und Funktionalität ausgelegt, damit Sie immer optimal geschützt sind."
+                },
+                {
+                    "title": "Sonnenbrillen",
+                    "text": "Unsere <a href=\"/kategorie/sonnenbrillen/\" title=\"Sonnenbrillen\">Sonnenbrillen</a> sind das ideale Accessoire für alle, die viel unterwegs sind und ihre Augen vor den schädlichen UV-Strahlen schützen möchten. Ob beim Wandern, Angeln oder einfach beim Entspannen am Strand, unsere Sonnenbrillen bieten einen optimalen Augenschutz und sehen dabei noch stylish aus."
+                },
+                {
+                    "title": "Sportbrillen",
+                    "text": "Mit unseren <a href=\"/kategorie/sportbrillen/\" title=\"Sportbrillen\">Sportbrillen</a> sind Sie bestens ausgestattet für alle Aktivitäten im Freien. Ob beim Radfahren, Joggen oder Skifahren, unsere Sportbrillen bieten einen sicheren Halt und schützen Ihre Augen vor Wind und Wetter. Durch die ergonomische Passform und das leichte Gewicht sind Sie immer optimal geschützt."
+                },
+                {
+                    "title": "Brillenetuis und Zubehör",
+                    "text": "Schützen Sie Ihre Brillen mit unseren hochwertigen <a href=\"/kategorie/brillenetuis-und-zubehoer/\" title=\"Brillenetuis und Zubehör\">Brillenetuis und Zubehör</a>. Wir bieten eine breite Auswahl an verschiedenen Etuis und Reinigungstüchern, damit Ihre Brillen immer in einwandfreiem Zustand sind. Durch die praktischen Größen und Materialien sind unsere Etuis und Zubehör perfekt für unterwegs."
+                },
+                {
+                    "title": "Skibrillen",
+                    "text": "Mit unseren <a href=\"/kategorie/skibrillen/\" title=\"Skibrillen\">Skibrillen</a> sind Sie bestens ausgestattet für Ihren nächsten Skitrip. Unsere Skibrillen bieten einen optimalen Schutz vor den harten Bedingungen auf der Piste und sorgen für klare Sicht. Durch die ergonomische Passform und das leichte Gewicht sind Sie immer bequem unterwegs."
+                },
+                {
+                    "title": "Gletscherbrillen",
+                    "text": "Unsere <a href=\"/kategorie/gletscherbrillen/\" title=\"Gletscherbrillen\">Gletscherbrillen</a> sind das ideale Accessoire für alle, die häufig in hochalpinem Gelände unterwegs sind. Die Gletscherbrillen schützen Ihre Augen vor den harten Bedingungen in den Bergen und bieten eine klare Sicht. Durch das robuste Material und die ergonomische Passform sind unsere Gletscherbrillen ideal für alle Abenteuer in hochalpinem Gelände."
+                },
+                {
+                    "title": "Unser Team sagt Danke",
+                    "text": "Vielen Dank für Ihr Interesse an unserem Online-Shop für Outdoor Brillen. Wir hoffen, dass wir Ihnen mit unserer breiten Auswahl an Brillen und Zubehör eine große Hilfe sein können. Besuchen Sie uns gerne jederzeit wieder!"
+                }
+            ]
         },
         "shop": {
             "title": "Outdoor Brillen Shop",
@@ -65,63 +94,55 @@
         "defaultTitle": "$PRODUKT - OutdoorBrillen.de",
         "defaultMetaDescription": "Outdoor Brille $PRODUKT von $HERSTELLER findest du in in unserem Online Shop für Outdoor Brillen zum besten Preis im Internet.",
         "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE - OutdoorBrillen.de",
         "defaultMetaDescription": "Top $KATEGORIE zu besten Preisen findest du in unserem Online Shop für Outdoor Brillen. Testsieger, beliebte Produkte und Preisschlager.",
         "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
+        "categories": [{
+            "key": "sporthosen",
+            "slug": "sporthosen",
+            "name": "Sporthosen",
+            "seo": {
+                "title": "Sporthosen günstig kaufen",
+                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                "robots": "index, follow",
+                "texts": [{
+                        "title": "Title of a SEO Text for sporthosen",
+                        "text": "Text of a SEO Text for sporthosen"
+                    },
+                    {
+                        "title": "New title for sporthosen",
+                        "text": "new text for sporthosen"
+                    }
+                ]
             }
-        ]
+        }]
     },
     "brandSeo": {
         "defaultTitle": "$HERSTELLER - OutdoorBrillen.de",
         "defaultMetaDescription": "Outdoor Brillen von $HERSTELLER. Alle Produkte von $HERSTELLER zu günstigen Preisen bestellen. Produkte auf Lager. Testsieger und Preisschlager.",
         "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
+        "brands": [{
+            "key": "palm",
+            "name": "Palm",
+            "seo": {
+                "title": "Produkte von Palm günstig kaufen",
+                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
-    "navigationLinks": [
-        {
+    "navigationLinks": [{
             "title": "Start",
             "linkTo": "/",
             "linkTitle": "Outdoor Brillen",
