@@ -49,35 +49,35 @@
             "title": "Outdoor Brillen",
             "metaDescription": "Auf OutdoorBrillen.de findest du die richtige Brille für dein Outdoor Erlebnis. Egal ob Sportbrille, Sonnenbrille oder Skibrille. Top Marken zu besten Preisen.",
             "robots": "index, follow",
-            "texts": [{
-                    "title": "Herzlich Willkommen im Online Shop für Outdoor Brillen",
-                    "text": "Willkommen bei Outdoor Brillen, Ihrem Online-Shop für hochwertige Brillen für den Outdoor-Einsatz. Wir bieten eine breite Auswahl an Sonnen-, Sport-, Skibrillen sowie Zubehör wie Brillenetuis und vieles mehr. Alle unsere Produkte sind auf Langlebigkeit und Funktionalität ausgelegt, damit Sie immer optimal geschützt sind."
-                },
-                {
-                    "title": "Sonnenbrillen",
-                    "text": "Unsere <a href=\"/kategorie/sonnenbrillen/\" title=\"Sonnenbrillen\">Sonnenbrillen</a> sind das ideale Accessoire für alle, die viel unterwegs sind und ihre Augen vor den schädlichen UV-Strahlen schützen möchten. Ob beim Wandern, Angeln oder einfach beim Entspannen am Strand, unsere Sonnenbrillen bieten einen optimalen Augenschutz und sehen dabei noch stylish aus."
-                },
-                {
-                    "title": "Sportbrillen",
-                    "text": "Mit unseren <a href=\"/kategorie/sportbrillen/\" title=\"Sportbrillen\">Sportbrillen</a> sind Sie bestens ausgestattet für alle Aktivitäten im Freien. Ob beim Radfahren, Joggen oder Skifahren, unsere Sportbrillen bieten einen sicheren Halt und schützen Ihre Augen vor Wind und Wetter. Durch die ergonomische Passform und das leichte Gewicht sind Sie immer optimal geschützt."
-                },
-                {
-                    "title": "Brillenetuis und Zubehör",
-                    "text": "Schützen Sie Ihre Brillen mit unseren hochwertigen <a href=\"/kategorie/brillenetuis-und-zubehoer/\" title=\"Brillenetuis und Zubehör\">Brillenetuis und Zubehör</a>. Wir bieten eine breite Auswahl an verschiedenen Etuis und Reinigungstüchern, damit Ihre Brillen immer in einwandfreiem Zustand sind. Durch die praktischen Größen und Materialien sind unsere Etuis und Zubehör perfekt für unterwegs."
-                },
-                {
-                    "title": "Skibrillen",
-                    "text": "Mit unseren <a href=\"/kategorie/skibrillen/\" title=\"Skibrillen\">Skibrillen</a> sind Sie bestens ausgestattet für Ihren nächsten Skitrip. Unsere Skibrillen bieten einen optimalen Schutz vor den harten Bedingungen auf der Piste und sorgen für klare Sicht. Durch die ergonomische Passform und das leichte Gewicht sind Sie immer bequem unterwegs."
-                },
-                {
-                    "title": "Gletscherbrillen",
-                    "text": "Unsere <a href=\"/kategorie/gletscherbrillen/\" title=\"Gletscherbrillen\">Gletscherbrillen</a> sind das ideale Accessoire für alle, die häufig in hochalpinem Gelände unterwegs sind. Die Gletscherbrillen schützen Ihre Augen vor den harten Bedingungen in den Bergen und bieten eine klare Sicht. Durch das robuste Material und die ergonomische Passform sind unsere Gletscherbrillen ideal für alle Abenteuer in hochalpinem Gelände."
-                },
-                {
-                    "title": "Unser Team sagt Danke",
-                    "text": "Vielen Dank für Ihr Interesse an unserem Online-Shop für Outdoor Brillen. Wir hoffen, dass wir Ihnen mit unserer breiten Auswahl an Brillen und Zubehör eine große Hilfe sein können. Besuchen Sie uns gerne jederzeit wieder!"
-                }
-            ]
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Outdoor Brillen",
+                        "text": "Wir freuen uns, Sie auf unserer Online-Plattform für Outdoor-Brillen begrüßen zu dürfen. Unsere Mission ist es, Ihnen eine breite Auswahl an hochwertigen Brillen für jeden Anlass und jede Aktivität im Freien zu bieten. Ob Sie auf der Suche nach einer Sonnenbrille für den Strandurlaub, einer Sportbrille für Ihre täglichen Outdoor-Aktivitäten oder einer Skibrille für Ihre Winterreise sind, wir haben das passende Produkt für Sie. Unsere Kategorien reichen von Sonnenbrillen über Sportbrillen bis hin zu Brillenetuis und Zubehör. Wir haben auch Skibrillen und Gletscherbrillen für alle, die gerne in den Bergen unterwegs sind. Alle unsere Produkte werden sorgfältig ausgewählt und bieten eine hervorragende Qualität zu einem erschwinglichen Preis. Wir verstehen, dass jeder eine andere Gesichtsform und Größe hat, deshalb bieten wir eine große Auswahl an Größen und Rahmenformen, um sicherzustellen, dass Sie die perfekte Brille für Ihre Bedürfnisse finden. Unsere Brillen sind auch mit den neuesten Technologien ausgestattet, um Ihnen ein komfortables und klares Seherlebnis zu bieten. Wir bei Outdoor Brillen sind stolz darauf, Ihnen eine sichere und einfache Online-Einkaufserfahrung zu bieten. Unser Kundenservice steht Ihnen jederzeit zur Verfügung, um Ihnen bei Fragen oder Bedenken zu helfen. Wir hoffen, dass Sie bei uns die perfekte Brille für Ihre nächste Outdoor-Aktivität finden. Viel Spaß beim Stöbern und Shoppen!"
+                    },
+                    {
+                        "title": "Sonnenbrillen",
+                        "text": "Entdecke die große Auswahl an <a href=\"/kategorie/sonnenbrillen/\" title=\"Sonnenbrillen\">Sonnenbrillen</a> bei Outdoor Brillen. Wir bieten eine Vielzahl von verschiedenen Stilen, Formen und Farben, um deine Augen vor den schädlichen UV-Strahlen zu schützen. Unsere Sonnenbrillen sind aus hochwertigen Materialien hergestellt und bieten eine hervorragende Passform und Komfort für den ganzen Tag. Stöbere jetzt durch unsere Kollektion und finde die perfekte Sonnenbrille für dich."
+                    },
+                    {
+                        "title": "Sportbrillen",
+                        "text": "Bleibe aktiv und schütze deine Augen mit den <a href=\"/kategorie/sportbrillen/\" title=\"Sportbrillen\">Sportbrillen</a> von Outdoor Brillen. Unsere Sportbrillen sind perfekt für alle Arten von Outdoor-Aktivitäten wie Radfahren, Joggen, Wandern und vieles mehr. Mit einem sicheren und bequemen Sitz bleiben sie bei jeder Bewegung an Ort und Stelle. Wähle aus einer großen Auswahl an Farben und Stilen, um deine Sportbrille zu finden, die zu dir passt."
+                    },
+                    {
+                        "title": "Brillenetuis und Zubehör",
+                        "text": "Schütze deine Brillen und halte sie immer griffbereit mit den <a href=\"/kategorie/brillenetuis-und-zubehoer/\" title=\"Brillenetuis und Zubehör\">Brillenetuis und Zubehör</a> von Outdoor Brillen. Wir bieten eine große Auswahl an Etuis in verschiedenen Farben und Größen, die deine Brillen sicher aufbewahren und transportieren. Außerdem haben wir auch Reinigungstücher und andere praktische Zubehörteile, um deine Brillen in Top-Zustand zu halten. Entdecke jetzt unsere Kollektion und finde das perfekte Zubehör für deine Brillen."
+                    },
+                    {
+                        "title": "Skibrillen",
+                        "text": "Erlebe einen unvergesslichen Tag auf der Piste mit den <a href=\"/kategorie/skibrillen/\" title=\"Skibrillen\">Skibrillen</a> von Outdoor Brillen. Wir bieten eine große Auswahl an Skibrillen in verschiedenen Stilen und Farben, die deine Augen vor den schädlichen UV-Strahlen und dem schneeblendenden Licht schützen. Unsere Skibrillen sind aus hochwertigen Materialien hergestellt und bieten eine hervorragende Passform und Komfort für den ganzen Tag. Entdecke jetzt unsere Kollektion und finde die perfekte Skibrille für dich."
+                    },
+                    {
+                        "title": "Gletscherbrillen",
+                        "text": "Schütze deine Augen vor den intensiven UV-Strahlen auf dem Gletscher mit den <a href=\"/kategorie/gletscherbrillen/\" title=\"Gletscherbrillen\">Gletscherbrillen</a> von Outdoor Brillen. Wir bieten eine große Auswahl an Gletscherbrillen in verschiedenen Stilen und Farben, die dir eine klare Sicht bieten, auch bei den schwierigsten Bedingungen. Unsere Gletscherbrillen sind aus hochwertigen Materialien hergestellt und bieten eine hervorragende Passform und Komfort für den ganzen Tag. Entdecke jetzt unsere Kollektion und finde die perfekte Gletscherbrille für dich."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Outdoor Brillen Shop",
@@ -94,55 +94,63 @@
         "defaultTitle": "$PRODUKT - OutdoorBrillen.de",
         "defaultMetaDescription": "Outdoor Brille $PRODUKT von $HERSTELLER findest du in in unserem Online Shop für Outdoor Brillen zum besten Preis im Internet.",
         "defaultRobots": "index, follow",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE - OutdoorBrillen.de",
         "defaultMetaDescription": "Top $KATEGORIE zu besten Preisen findest du in unserem Online Shop für Outdoor Brillen. Testsieger, beliebte Produkte und Preisschlager.",
         "defaultRobots": "index, follow",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow",
-                "texts": [{
-                        "title": "Title of a SEO Text for sporthosen",
-                        "text": "Text of a SEO Text for sporthosen"
-                    },
-                    {
-                        "title": "New title for sporthosen",
-                        "text": "new text for sporthosen"
-                    }
-                ]
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
         "defaultTitle": "$HERSTELLER - OutdoorBrillen.de",
         "defaultMetaDescription": "Outdoor Brillen von $HERSTELLER. Alle Produkte von $HERSTELLER zu günstigen Preisen bestellen. Produkte auf Lager. Testsieger und Preisschlager.",
         "defaultRobots": "index, follow",
-        "brands": [{
-            "key": "palm",
-            "name": "Palm",
-            "seo": {
-                "title": "Produkte von Palm günstig kaufen",
-                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                "robots": "index, follow"
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Start",
             "linkTo": "/",
             "linkTitle": "Outdoor Brillen",
