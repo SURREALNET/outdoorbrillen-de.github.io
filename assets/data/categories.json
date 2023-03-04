@@ -1,1 +1,37 @@
-[{"key": "sonnenbrillen", "name": "Sonnenbrillen", "slug": "sonnenbrillen", "productCategory": "Sonnenbrillen", "subCategories": []}, {"key": "sportbrillen", "name": "Sportbrillen", "slug": "sportbrillen", "productCategory": "Sportbrillen", "subCategories": []}, {"key": "brillenetuis und zubehör", "name": "Brillenetuis und Zubehör", "slug": "brillenetuis-und-zubehoer", "productCategory": "Brillenetuis und Zubehör", "subCategories": []}, {"key": "skibrillen", "name": "Skibrillen", "slug": "skibrillen", "productCategory": "Skibrillen", "subCategories": []}, {"key": "gletscherbrillen", "name": "Gletscherbrillen", "slug": "gletscherbrillen", "productCategory": "Gletscherbrillen", "subCategories": []}]
+[
+    {
+        "key": "sonnenbrillen",
+        "name": "Sonnenbrillen",
+        "slug": "sonnenbrillen",
+        "productCategory": "Sonnenbrillen",
+        "subCategories": []
+    },
+    {
+        "key": "sportbrillen",
+        "name": "Sportbrillen",
+        "slug": "sportbrillen",
+        "productCategory": "Sportbrillen",
+        "subCategories": []
+    },
+    {
+        "key": "brillenetuis und zubehör",
+        "name": "Brillenetuis und Zubehör",
+        "slug": "brillenetuis-und-zubehoer",
+        "productCategory": "Brillenetuis und Zubehör",
+        "subCategories": []
+    },
+    {
+        "key": "skibrillen",
+        "name": "Skibrillen",
+        "slug": "skibrillen",
+        "productCategory": "Skibrillen",
+        "subCategories": []
+    },
+    {
+        "key": "gletscherbrillen",
+        "name": "Gletscherbrillen",
+        "slug": "gletscherbrillen",
+        "productCategory": "Gletscherbrillen",
+        "subCategories": []
+    }
+]
