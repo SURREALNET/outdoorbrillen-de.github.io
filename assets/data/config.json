@@ -1,214 +1,221 @@
 {
-  "configIsReady": true,
-  "domain": "outdoorbrillen.de",
-  "hostname": "https://www.outdoorbrillen.de/",
-  "email": "outdoorbrillen.de@surrealnetworks.io",
-  "organization": "outdoorbrillen.de",
-  "logoText": "outdoorbrillen.de",
-  "title": "Outdoor Brillen",
-  "subline": "Brillen für jeden Anlass",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5637825566",
-    "5637743332",
-    "5637743338"
-  ],
-  "winnerProducts": [
-    "5637743338",
-    "5637933142",
-    "5637851421"
-  ],
-  "featuredCategories": [
-    "Sonnenbrillen",
-    "Sportbrillen",
-    "Skibrillen",
-    "Gletscherbrillen",
-    "Brillenetuis und Zubehör"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Fassung",
-    "UV-Schutz",
-    "Veredelung"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Outdoor Brillen",
-    "featureText": "<p>Herzlich Willkommen bei Outdoor Brillen! Wir sind Ihr zuverlässiger Partner, wenn es um hochwertige und funktionale Brillen für den Outdoor-Bereich geht. Egal ob Sie eine Sonnenbrille zum Wandern, eine Skibrille für den Wintersport oder eine Sportbrille zum Radfahren suchen - bei uns finden Sie garantiert das passende Modell.</p><p>Unser Sortiment umfasst eine breite Auswahl an Outdoor-Brillen namhafter Markenhersteller, die höchsten Ansprüchen an Qualität und Design gerecht werden. Wir legen großen Wert darauf, dass unsere Kunden zufrieden sind und bieten Ihnen daher nicht nur eine schnelle Lieferung, sondern auch einen erstklassigen Kundenservice.</p><p>Stöbern Sie gerne in unserem <a href=\"/shop/\" title=\"Online Shop für Outdoor Brillen\">Shop</a> und entdecken Sie die Vielfalt unserer Produkte. Sollten Sie Fragen haben oder eine Beratung wünschen, stehen wir Ihnen jederzeit gerne zur Verfügung. Wir freuen uns auf Ihre Bestellung und wünschen Ihnen viel Spaß beim Shoppen bei Outdoor Brillen!</p>",
-    "index": {
-      "title": "Outdoor Brillen",
-      "metaDescription": "Auf OutdoorBrillen.de findest du die richtige Brille für dein Outdoor Erlebnis. Egal ob Sportbrille, Sonnenbrille oder Skibrille. Top Marken zu besten Preisen.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Outdoor Brillen",
-            "text": "Wir freuen uns, Sie auf unserer Online-Plattform für Outdoor-Brillen begrüßen zu dürfen. Unsere Mission ist es, Ihnen eine breite Auswahl an hochwertigen Brillen für jeden Anlass und jede Aktivität im Freien zu bieten. Ob Sie auf der Suche nach einer Sonnenbrille für den Strandurlaub, einer Sportbrille für Ihre täglichen Outdoor-Aktivitäten oder einer Skibrille für Ihre Winterreise sind, wir haben das passende Produkt für Sie. Unsere Kategorien reichen von Sonnenbrillen über Sportbrillen bis hin zu Brillenetuis und Zubehör. Wir haben auch Skibrillen und Gletscherbrillen für alle, die gerne in den Bergen unterwegs sind. Alle unsere Produkte werden sorgfältig ausgewählt und bieten eine hervorragende Qualität zu einem erschwinglichen Preis. Wir verstehen, dass jeder eine andere Gesichtsform und Größe hat, deshalb bieten wir eine große Auswahl an Größen und Rahmenformen, um sicherzustellen, dass Sie die perfekte Brille für Ihre Bedürfnisse finden. Unsere Brillen sind auch mit den neuesten Technologien ausgestattet, um Ihnen ein komfortables und klares Seherlebnis zu bieten. Wir bei Outdoor Brillen sind stolz darauf, Ihnen eine sichere und einfache Online-Einkaufserfahrung zu bieten. Unser Kundenservice steht Ihnen jederzeit zur Verfügung, um Ihnen bei Fragen oder Bedenken zu helfen. Wir hoffen, dass Sie bei uns die perfekte Brille für Ihre nächste Outdoor-Aktivität finden. Viel Spaß beim Stöbern und Shoppen!"
-          },
-          {
-            "title": "Sonnenbrillen",
-            "text": "Entdecke die große Auswahl an <a href=\"/kategorie/sonnenbrillen/\" title=\"Sonnenbrillen\">Sonnenbrillen</a> bei Outdoor Brillen. Wir bieten eine Vielzahl von verschiedenen Stilen, Formen und Farben, um deine Augen vor den schädlichen UV-Strahlen zu schützen. Unsere Sonnenbrillen sind aus hochwertigen Materialien hergestellt und bieten eine hervorragende Passform und Komfort für den ganzen Tag. Stöbere jetzt durch unsere Kollektion und finde die perfekte Sonnenbrille für dich."
-          },
-          {
-            "title": "Sportbrillen",
-            "text": "Bleibe aktiv und schütze deine Augen mit den <a href=\"/kategorie/sportbrillen/\" title=\"Sportbrillen\">Sportbrillen</a> von Outdoor Brillen. Unsere Sportbrillen sind perfekt für alle Arten von Outdoor-Aktivitäten wie Radfahren, Joggen, Wandern und vieles mehr. Mit einem sicheren und bequemen Sitz bleiben sie bei jeder Bewegung an Ort und Stelle. Wähle aus einer großen Auswahl an Farben und Stilen, um deine Sportbrille zu finden, die zu dir passt."
-          },
-          {
-            "title": "Brillenetuis und Zubehör",
-            "text": "Schütze deine Brillen und halte sie immer griffbereit mit den <a href=\"/kategorie/brillenetuis-und-zubehoer/\" title=\"Brillenetuis und Zubehör\">Brillenetuis und Zubehör</a> von Outdoor Brillen. Wir bieten eine große Auswahl an Etuis in verschiedenen Farben und Größen, die deine Brillen sicher aufbewahren und transportieren. Außerdem haben wir auch Reinigungstücher und andere praktische Zubehörteile, um deine Brillen in Top-Zustand zu halten. Entdecke jetzt unsere Kollektion und finde das perfekte Zubehör für deine Brillen."
-          },
-          {
-            "title": "Skibrillen",
-            "text": "Erlebe einen unvergesslichen Tag auf der Piste mit den <a href=\"/kategorie/skibrillen/\" title=\"Skibrillen\">Skibrillen</a> von Outdoor Brillen. Wir bieten eine große Auswahl an Skibrillen in verschiedenen Stilen und Farben, die deine Augen vor den schädlichen UV-Strahlen und dem schneeblendenden Licht schützen. Unsere Skibrillen sind aus hochwertigen Materialien hergestellt und bieten eine hervorragende Passform und Komfort für den ganzen Tag. Entdecke jetzt unsere Kollektion und finde die perfekte Skibrille für dich."
-          },
-          {
-            "title": "Gletscherbrillen",
-            "text": "Schütze deine Augen vor den intensiven UV-Strahlen auf dem Gletscher mit den <a href=\"/kategorie/gletscherbrillen/\" title=\"Gletscherbrillen\">Gletscherbrillen</a> von Outdoor Brillen. Wir bieten eine große Auswahl an Gletscherbrillen in verschiedenen Stilen und Farben, die dir eine klare Sicht bieten, auch bei den schwierigsten Bedingungen. Unsere Gletscherbrillen sind aus hochwertigen Materialien hergestellt und bieten eine hervorragende Passform und Komfort für den ganzen Tag. Entdecke jetzt unsere Kollektion und finde die perfekte Gletscherbrille für dich."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "outdoorbrillen.de",
+    "hostname": "https://www.outdoorbrillen.de/",
+    "email": "outdoorbrillen.de@surrealnetworks.io",
+    "organization": "outdoorbrillen.de",
+    "logoText": "outdoorbrillen.de",
+    "title": "Outdoor Brillen",
+    "subline": "Brillen für jeden Anlass",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5637825566",
+        "5637743332",
+        "5637743338"
+    ],
+    "winnerProducts": [
+        "5637743338",
+        "5637933142",
+        "5637851421"
+    ],
+    "featuredCategories": [
+        "Sonnenbrillen",
+        "Sportbrillen",
+        "Skibrillen",
+        "Gletscherbrillen",
+        "Brillenetuis und Zubehör"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Fassung",
+        "UV-Schutz",
+        "Veredelung"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Outdoor Brillen",
+        "featureText": "<p>Herzlich Willkommen bei Outdoor Brillen! Wir sind Ihr zuverlässiger Partner, wenn es um hochwertige und funktionale Brillen für den Outdoor-Bereich geht. Egal ob Sie eine Sonnenbrille zum Wandern, eine Skibrille für den Wintersport oder eine Sportbrille zum Radfahren suchen - bei uns finden Sie garantiert das passende Modell.</p><p>Unser Sortiment umfasst eine breite Auswahl an Outdoor-Brillen namhafter Markenhersteller, die höchsten Ansprüchen an Qualität und Design gerecht werden. Wir legen großen Wert darauf, dass unsere Kunden zufrieden sind und bieten Ihnen daher nicht nur eine schnelle Lieferung, sondern auch einen erstklassigen Kundenservice.</p><p>Stöbern Sie gerne in unserem <a href=\"/shop/\" title=\"Online Shop für Outdoor Brillen\">Shop</a> und entdecken Sie die Vielfalt unserer Produkte. Sollten Sie Fragen haben oder eine Beratung wünschen, stehen wir Ihnen jederzeit gerne zur Verfügung. Wir freuen uns auf Ihre Bestellung und wünschen Ihnen viel Spaß beim Shoppen bei Outdoor Brillen!</p>",
+        "index": {
+            "title": "Outdoor Brillen",
+            "metaDescription": "Auf OutdoorBrillen.de findest du die richtige Brille für dein Outdoor Erlebnis. Egal ob Sportbrille, Sonnenbrille oder Skibrille. Top Marken zu besten Preisen.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Outdoor Brillen",
+                        "text": "Wir freuen uns, Sie auf unserer Online-Plattform für Outdoor-Brillen begrüßen zu dürfen. Unsere Mission ist es, Ihnen eine breite Auswahl an hochwertigen Brillen für jeden Anlass und jede Aktivität im Freien zu bieten. Ob Sie auf der Suche nach einer Sonnenbrille für den Strandurlaub, einer Sportbrille für Ihre täglichen Outdoor-Aktivitäten oder einer Skibrille für Ihre Winterreise sind, wir haben das passende Produkt für Sie. Unsere Kategorien reichen von Sonnenbrillen über Sportbrillen bis hin zu Brillenetuis und Zubehör. Wir haben auch Skibrillen und Gletscherbrillen für alle, die gerne in den Bergen unterwegs sind. Alle unsere Produkte werden sorgfältig ausgewählt und bieten eine hervorragende Qualität zu einem erschwinglichen Preis. Wir verstehen, dass jeder eine andere Gesichtsform und Größe hat, deshalb bieten wir eine große Auswahl an Größen und Rahmenformen, um sicherzustellen, dass Sie die perfekte Brille für Ihre Bedürfnisse finden. Unsere Brillen sind auch mit den neuesten Technologien ausgestattet, um Ihnen ein komfortables und klares Seherlebnis zu bieten. Wir bei Outdoor Brillen sind stolz darauf, Ihnen eine sichere und einfache Online-Einkaufserfahrung zu bieten. Unser Kundenservice steht Ihnen jederzeit zur Verfügung, um Ihnen bei Fragen oder Bedenken zu helfen. Wir hoffen, dass Sie bei uns die perfekte Brille für Ihre nächste Outdoor-Aktivität finden. Viel Spaß beim Stöbern und Shoppen!"
+                    },
+                    {
+                        "title": "Sonnenbrillen",
+                        "text": "Entdecke die große Auswahl an <a href=\"/kategorie/sonnenbrillen/\" title=\"Sonnenbrillen\">Sonnenbrillen</a> bei Outdoor Brillen. Wir bieten eine Vielzahl von verschiedenen Stilen, Formen und Farben, um deine Augen vor den schädlichen UV-Strahlen zu schützen. Unsere Sonnenbrillen sind aus hochwertigen Materialien hergestellt und bieten eine hervorragende Passform und Komfort für den ganzen Tag. Stöbere jetzt durch unsere Kollektion und finde die perfekte Sonnenbrille für dich."
+                    },
+                    {
+                        "title": "Sportbrillen",
+                        "text": "Bleibe aktiv und schütze deine Augen mit den <a href=\"/kategorie/sportbrillen/\" title=\"Sportbrillen\">Sportbrillen</a> von Outdoor Brillen. Unsere Sportbrillen sind perfekt für alle Arten von Outdoor-Aktivitäten wie Radfahren, Joggen, Wandern und vieles mehr. Mit einem sicheren und bequemen Sitz bleiben sie bei jeder Bewegung an Ort und Stelle. Wähle aus einer großen Auswahl an Farben und Stilen, um deine Sportbrille zu finden, die zu dir passt."
+                    },
+                    {
+                        "title": "Brillenetuis und Zubehör",
+                        "text": "Schütze deine Brillen und halte sie immer griffbereit mit den <a href=\"/kategorie/brillenetuis-und-zubehoer/\" title=\"Brillenetuis und Zubehör\">Brillenetuis und Zubehör</a> von Outdoor Brillen. Wir bieten eine große Auswahl an Etuis in verschiedenen Farben und Größen, die deine Brillen sicher aufbewahren und transportieren. Außerdem haben wir auch Reinigungstücher und andere praktische Zubehörteile, um deine Brillen in Top-Zustand zu halten. Entdecke jetzt unsere Kollektion und finde das perfekte Zubehör für deine Brillen."
+                    },
+                    {
+                        "title": "Skibrillen",
+                        "text": "Erlebe einen unvergesslichen Tag auf der Piste mit den <a href=\"/kategorie/skibrillen/\" title=\"Skibrillen\">Skibrillen</a> von Outdoor Brillen. Wir bieten eine große Auswahl an Skibrillen in verschiedenen Stilen und Farben, die deine Augen vor den schädlichen UV-Strahlen und dem schneeblendenden Licht schützen. Unsere Skibrillen sind aus hochwertigen Materialien hergestellt und bieten eine hervorragende Passform und Komfort für den ganzen Tag. Entdecke jetzt unsere Kollektion und finde die perfekte Skibrille für dich."
+                    },
+                    {
+                        "title": "Gletscherbrillen",
+                        "text": "Schütze deine Augen vor den intensiven UV-Strahlen auf dem Gletscher mit den <a href=\"/kategorie/gletscherbrillen/\" title=\"Gletscherbrillen\">Gletscherbrillen</a> von Outdoor Brillen. Wir bieten eine große Auswahl an Gletscherbrillen in verschiedenen Stilen und Farben, die dir eine klare Sicht bieten, auch bei den schwierigsten Bedingungen. Unsere Gletscherbrillen sind aus hochwertigen Materialien hergestellt und bieten eine hervorragende Passform und Komfort für den ganzen Tag. Entdecke jetzt unsere Kollektion und finde die perfekte Gletscherbrille für dich."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Outdoor Brillen Shop",
+            "metaDescription": "Shop für Outdoor Brillen. Sortiert nach Kategorie. Finde die richtige Brille für deinen Einsatz. Beste Fassung, Material, UV-Schutz und Veredelung.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Outdoor Brillen Hersteller Überblick",
+            "metaDescription": "Finde alle renommierten Hersteller für Outdoor Brillen wie Oakley, Alpina, FRILUFTS, Uvex, usw und kaufe die Produkte zum Best-Preis in unserem Online Shop. ",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Outdoor Brillen Shop",
-      "metaDescription": "Shop für Outdoor Brillen. Sortiert nach Kategorie. Finde die richtige Brille für deinen Einsatz. Beste Fassung, Material, UV-Schutz und Veredelung.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Outdoor Brillen Hersteller Überblick",
-      "metaDescription": "Finde alle renommierten Hersteller für Outdoor Brillen wie Oakley, Alpina, FRILUFTS, Uvex, usw und kaufe die Produkte zum Best-Preis in unserem Online Shop. ",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT - OutdoorBrillen.de",
-    "defaultMetaDescription": "Outdoor Brille $PRODUKT von $HERSTELLER findest du in in unserem Online Shop für Outdoor Brillen zum besten Preis im Internet.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "5637743338",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT - OutdoorBrillen.de",
+        "defaultMetaDescription": "Outdoor Brille $PRODUKT von $HERSTELLER findest du in in unserem Online Shop für Outdoor Brillen zum besten Preis im Internet.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Oakley SYLAS Sonnenbrille - Stil und Schutz in einem",
-              "text": "<p class=\"justify\">Die Oakley SYLAS Sonnenbrille ist ein beeindruckendes Accessoire, das sowohl Stil als auch Schutz bietet. Mit der Farbe \"black inkprizm ruby polarized\" strahlt diese Sonnenbrille Qualität und Klasse aus. Die Marke Oakley ist bekannt für ihre hochwertigen Produkte und die Oakley SYLAS Sonnenbrille ist da keine Ausnahme.</p><p class=\"justify\">Dank ihrer Kategoriezugehörigkeit zu Ausrüstung, Brillen und Sonnenbrillen ist die Oakley SYLAS Sonnenbrille ein unverzichtbares Accessoire für Outdoor-Enthusiasten und Stadtbewohner gleichermaßen. Sie bietet Schutz vor schädlichen UV-Strahlen und schützt Ihre Augen vor starker Blendung bei einer Vielzahl von Outdoor-Aktivitäten wie Radfahren, Wandern und Wassersport.</p><p class=\"justify\">Die Oakley SYLAS Sonnenbrille verfügt über polarisierte Gläser, um maximale Blendreduktion zu gewährleisten. Diese hochwertige Sonnenbrille minimiert Reflektionen und verbessert die Sicht, damit Sie Ihre Aktivitäten im Freien in vollen Zügen genießen können. Darüber hinaus sind die prizm ruby polarisierten Gläser äußerst strapazierfähig und kratzfest, sodass Ihre Brille lange hält und gut aussieht.</p><p class=\"justify\">Mit einer durchschnittlichen Bewertung von 4 Sternen aus 93 Rezensionen ist es keine Überraschung, dass die Oakley SYLAS Sonnenbrille so beliebt ist. Die Käufer schätzen die Qualität, den Komfort und die Haltbarkeit der Brille. Die Kategorie SYLAS zeigt, dass diese Brille zur Spitzenklasse gehört und sie zweifellos eine gute Investition ist.</p><p class=\"justify\">Zum Preis von 171,95 Euro bietet die Oakley SYLAS Sonnenbrille ein beeindruckendes Preis-Leistungs-Verhältnis. Der SKU 5637743338 ist ein Beweis für die Qualität dieses Produkts. Verpassen Sie nicht die Gelegenheit, Ihre Augen und Ihr Gesicht mit dieser stilvollen und schützenden Sonnenbrille zu verwöhnen!</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637933142",
-        "seo": {
-          "texts": [
-            {
-              "title": "Julbo ULTIMATE COVER Gletscherbrille in Dunkelblau / Blau",
-              "text": "<p class=\"justify\">Entdecken Sie die Julbo ULTIMATE COVER Gletscherbrille in Dunkelblau / Blau - eine hochwertige Sportbrille der Marke Julbo mit der SKU 5637933142. Diese exzellente Brille eignet sich perfekt für den Einsatz in den Bergen und bietet optimalen Schutz vor starker Sonneneinstrahlung sowie vor Wind und Kälte. Sie gehört zur Kategorie der Sportbrillen und unterstreicht einmal mehr die Expertise von Julbo im Bereich der Outdoor-Ausrüstung.</p><p class=\"justify\">Die Julbo ULTIMATE COVER Gletscherbrille bietet dank ihrer hochwertigen Verarbeitung und Materialien einen hohen Tragekomfort und eine ausgezeichnete Passform. Sie ist mit einer speziellen Technologie ausgestattet, die für hervorragende optische Klarheit und ein verzerrungsfreies Sichtfeld sorgt. Die dunkelblaue und blaue Farbgebung verleiht der Brille zudem ein modernes und stylisches Design.</p><p class=\"justify\">Mit über 300 Bewertungen und einer durchschnittlichen Bewertung von 4 Sternen haben viele zufriedene Kunden bereits ihre positiven Erfahrungen mit dieser Gletscherbrille geteilt. Sie loben insbesondere die hohe Qualität, die exzellente Passform sowie den optimalen Schutz, den die Julbo ULTIMATE COVER Gletscherbrille bietet.</p><p class=\"justify\">Die Julbo ULTIMATE COVER Gletscherbrille ist in den Kategorien Start, Ausrüstung, Brillen, Sportbrillen und ULTIMATE COVER zu finden, was ihre Vielseitigkeit und Eignung für eine breite Palette von Outdoor-Aktivitäten bestätigt. Mit einem Preis von 229,95 € ist diese Brille eine Investition in hohen Komfort, erstklassige Leistung und Sicherheit bei Ihren Outdoor-Abenteuern.</p><p class=\"justify\">Erleben Sie selbst die herausragenden Eigenschaften und Funktionen der Julbo ULTIMATE COVER Gletscherbrille in Dunkelblau / Blau und profitieren Sie von ihrem optimalen Schutz, ihrer hohen Qualität und ihrem stilvollen Design bei Ihren nächsten Bergtouren und Outdoor-Aktivitäten.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637851421",
-        "seo": {
-          "texts": [
-            {
-              "title": "Julbo MONTEROSA 2 Sportbrille: Perfekter Begleiter für Outdoor-Aktivitäten",
-              "text": "<p class=\"justify\">Die Julbo MONTEROSA 2 Sportbrille der Marke Julbo ist der ideale Begleiter für alle, die sich gerne im Freien aufhalten und wert auf optimalen Schutz und erstklassigen Tragekomfort legen. Diese hochwertige Brille in der Farbe Dunkalblau / Grau eignet sich besonders gut für Aktivitäten wie Wandern, Laufen, Radfahren oder Skifahren.</p><p class=\"justify\">Das Design der Julbo MONTEROSA 2 ist nicht nur ansprechend, sondern auch funktionell. Die Brille schützt optimal vor Sonne und Wind, ohne dabei das Sichtfeld einzuschränken. Die Brillenfassung ist aus einem robusten und leichten Material gefertigt, das einen langanhaltenden Tragekomfort gewährleistet. Die verstellbaren Bügel sorgen für einen perfekten Sitz und verhindern das Verrutschen der Brille während der sportlichen Betätigung.</p><p class=\"justify\">Mit der Julbo MONTEROSA 2 Sportbrille treffen Sie eine ausgezeichnete Wahl in Sachen Qualität und Funktionalität. Die Brille zählt zu den Produkten der Kategorie Ausrüstung und ist der Unterkategorie Sportbrillen zugeordnet. Diese Sportbrille bietet einen erstklassigen Schutz vor UV-Strahlen und verfügt über polarisierte Gläser, die störende Blendungen oder Reflexionen minimieren. Somit sind Ihre Augen optimal geschützt und Sie können sich voll und ganz auf Ihre Aktivitäten konzentrieren.</p><p class=\"justify\">Das Modell MONTEROSA 2 gehört zu den Top-Bewerteten Produkten dieser Kategorie und verfügt über 446 Rezensionen mit einer durchschnittlichen Kundenbewertung von 4 Sternen. Die beeindruckende Anzahl zufriedener Kunden spricht für die Qualität und Kompetenz der Marke Julbo. Nutzen Sie die Gelegenheit, sich selbst von dieser hervorragenden Sportbrille zu überzeugen und lassen Sie sich von ihrem Komfort und Schutz überzeugen.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE - OutdoorBrillen.de",
-    "defaultMetaDescription": "Top $KATEGORIE zu besten Preisen findest du in unserem Online Shop für Outdoor Brillen. Testsieger, beliebte Produkte und Preisschlager.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "5637743338",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Oakley SYLAS Sonnenbrille - Stil und Schutz in einem",
+                            "text": "<p class=\"justify\">Die Oakley SYLAS Sonnenbrille ist ein beeindruckendes Accessoire, das sowohl Stil als auch Schutz bietet. Mit der Farbe \"black inkprizm ruby polarized\" strahlt diese Sonnenbrille Qualität und Klasse aus. Die Marke Oakley ist bekannt für ihre hochwertigen Produkte und die Oakley SYLAS Sonnenbrille ist da keine Ausnahme.</p><p class=\"justify\">Dank ihrer Kategoriezugehörigkeit zu Ausrüstung, Brillen und Sonnenbrillen ist die Oakley SYLAS Sonnenbrille ein unverzichtbares Accessoire für Outdoor-Enthusiasten und Stadtbewohner gleichermaßen. Sie bietet Schutz vor schädlichen UV-Strahlen und schützt Ihre Augen vor starker Blendung bei einer Vielzahl von Outdoor-Aktivitäten wie Radfahren, Wandern und Wassersport.</p><p class=\"justify\">Die Oakley SYLAS Sonnenbrille verfügt über polarisierte Gläser, um maximale Blendreduktion zu gewährleisten. Diese hochwertige Sonnenbrille minimiert Reflektionen und verbessert die Sicht, damit Sie Ihre Aktivitäten im Freien in vollen Zügen genießen können. Darüber hinaus sind die prizm ruby polarisierten Gläser äußerst strapazierfähig und kratzfest, sodass Ihre Brille lange hält und gut aussieht.</p><p class=\"justify\">Mit einer durchschnittlichen Bewertung von 4 Sternen aus 93 Rezensionen ist es keine Überraschung, dass die Oakley SYLAS Sonnenbrille so beliebt ist. Die Käufer schätzen die Qualität, den Komfort und die Haltbarkeit der Brille. Die Kategorie SYLAS zeigt, dass diese Brille zur Spitzenklasse gehört und sie zweifellos eine gute Investition ist.</p><p class=\"justify\">Zum Preis von 171,95 Euro bietet die Oakley SYLAS Sonnenbrille ein beeindruckendes Preis-Leistungs-Verhältnis. Der SKU 5637743338 ist ein Beweis für die Qualität dieses Produkts. Verpassen Sie nicht die Gelegenheit, Ihre Augen und Ihr Gesicht mit dieser stilvollen und schützenden Sonnenbrille zu verwöhnen!</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637933142",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Julbo ULTIMATE COVER Gletscherbrille in Dunkelblau / Blau",
+                            "text": "<p class=\"justify\">Entdecken Sie die Julbo ULTIMATE COVER Gletscherbrille in Dunkelblau / Blau - eine hochwertige Sportbrille der Marke Julbo mit der SKU 5637933142. Diese exzellente Brille eignet sich perfekt für den Einsatz in den Bergen und bietet optimalen Schutz vor starker Sonneneinstrahlung sowie vor Wind und Kälte. Sie gehört zur Kategorie der Sportbrillen und unterstreicht einmal mehr die Expertise von Julbo im Bereich der Outdoor-Ausrüstung.</p><p class=\"justify\">Die Julbo ULTIMATE COVER Gletscherbrille bietet dank ihrer hochwertigen Verarbeitung und Materialien einen hohen Tragekomfort und eine ausgezeichnete Passform. Sie ist mit einer speziellen Technologie ausgestattet, die für hervorragende optische Klarheit und ein verzerrungsfreies Sichtfeld sorgt. Die dunkelblaue und blaue Farbgebung verleiht der Brille zudem ein modernes und stylisches Design.</p><p class=\"justify\">Mit über 300 Bewertungen und einer durchschnittlichen Bewertung von 4 Sternen haben viele zufriedene Kunden bereits ihre positiven Erfahrungen mit dieser Gletscherbrille geteilt. Sie loben insbesondere die hohe Qualität, die exzellente Passform sowie den optimalen Schutz, den die Julbo ULTIMATE COVER Gletscherbrille bietet.</p><p class=\"justify\">Die Julbo ULTIMATE COVER Gletscherbrille ist in den Kategorien Start, Ausrüstung, Brillen, Sportbrillen und ULTIMATE COVER zu finden, was ihre Vielseitigkeit und Eignung für eine breite Palette von Outdoor-Aktivitäten bestätigt. Mit einem Preis von 229,95 € ist diese Brille eine Investition in hohen Komfort, erstklassige Leistung und Sicherheit bei Ihren Outdoor-Abenteuern.</p><p class=\"justify\">Erleben Sie selbst die herausragenden Eigenschaften und Funktionen der Julbo ULTIMATE COVER Gletscherbrille in Dunkelblau / Blau und profitieren Sie von ihrem optimalen Schutz, ihrer hohen Qualität und ihrem stilvollen Design bei Ihren nächsten Bergtouren und Outdoor-Aktivitäten.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637851421",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Julbo MONTEROSA 2 Sportbrille: Perfekter Begleiter für Outdoor-Aktivitäten",
+                            "text": "<p class=\"justify\">Die Julbo MONTEROSA 2 Sportbrille der Marke Julbo ist der ideale Begleiter für alle, die sich gerne im Freien aufhalten und wert auf optimalen Schutz und erstklassigen Tragekomfort legen. Diese hochwertige Brille in der Farbe Dunkalblau / Grau eignet sich besonders gut für Aktivitäten wie Wandern, Laufen, Radfahren oder Skifahren.</p><p class=\"justify\">Das Design der Julbo MONTEROSA 2 ist nicht nur ansprechend, sondern auch funktionell. Die Brille schützt optimal vor Sonne und Wind, ohne dabei das Sichtfeld einzuschränken. Die Brillenfassung ist aus einem robusten und leichten Material gefertigt, das einen langanhaltenden Tragekomfort gewährleistet. Die verstellbaren Bügel sorgen für einen perfekten Sitz und verhindern das Verrutschen der Brille während der sportlichen Betätigung.</p><p class=\"justify\">Mit der Julbo MONTEROSA 2 Sportbrille treffen Sie eine ausgezeichnete Wahl in Sachen Qualität und Funktionalität. Die Brille zählt zu den Produkten der Kategorie Ausrüstung und ist der Unterkategorie Sportbrillen zugeordnet. Diese Sportbrille bietet einen erstklassigen Schutz vor UV-Strahlen und verfügt über polarisierte Gläser, die störende Blendungen oder Reflexionen minimieren. Somit sind Ihre Augen optimal geschützt und Sie können sich voll und ganz auf Ihre Aktivitäten konzentrieren.</p><p class=\"justify\">Das Modell MONTEROSA 2 gehört zu den Top-Bewerteten Produkten dieser Kategorie und verfügt über 446 Rezensionen mit einer durchschnittlichen Kundenbewertung von 4 Sternen. Die beeindruckende Anzahl zufriedener Kunden spricht für die Qualität und Kompetenz der Marke Julbo. Nutzen Sie die Gelegenheit, sich selbst von dieser hervorragenden Sportbrille zu überzeugen und lassen Sie sich von ihrem Komfort und Schutz überzeugen.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE - OutdoorBrillen.de",
+        "defaultMetaDescription": "Top $KATEGORIE zu besten Preisen findest du in unserem Online Shop für Outdoor Brillen. Testsieger, beliebte Produkte und Preisschlager.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER - OutdoorBrillen.de",
+        "defaultMetaDescription": "Outdoor Brillen von $HERSTELLER. Alle Produkte von $HERSTELLER zu günstigen Preisen bestellen. Produkte auf Lager. Testsieger und Preisschlager.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Outdoor Brillen",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Brillen Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Brillen Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Wassersport Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER - OutdoorBrillen.de",
-    "defaultMetaDescription": "Outdoor Brillen von $HERSTELLER. Alle Produkte von $HERSTELLER zu günstigen Preisen bestellen. Produkte auf Lager. Testsieger und Preisschlager.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Outdoor Brillen",
-      "publish": true
+    ],
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Brillen Shop",
-      "publish": true
-    },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Brillen Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Wassersport Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
